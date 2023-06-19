@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "89127962103",
+    "project_id": "fir-9-dd53a",
+    "storage_bucket": "fir-9-dd53a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89127962103:android:cf44d6f93593d7e3705af2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89127962103-cmvrogd3nu9olibgudd082im5rvvmaa9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_project",
+            "certificate_hash": "45d29928adc236b44034b4a30a5291bd6f290960"
+          }
+        },
+        {
+          "client_id": "89127962103-1o0u4s9ff7gj1fg2a9f4olpqpbhna14v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7V8djGSu2FoY_pwr4lmniAEn4C257NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89127962103-06b4biova8vu1q8fj80kmkift22iu4fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89127962103:android:cc6c89e248136789705af2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_user_side"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89127962103-1o0u4s9ff7gj1fg2a9f4olpqpbhna14v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7V8djGSu2FoY_pwr4lmniAEn4C257NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89127962103-06b4biova8vu1q8fj80kmkift22iu4fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
